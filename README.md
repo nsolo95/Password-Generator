@@ -5,4 +5,4 @@ Use this password generator to create a randomized secure password between 8-128
  
 ## live url 
 
-https://nsolo95.github.io/mod-3/
+https://nsolo95.github.io/Password-Generator/
